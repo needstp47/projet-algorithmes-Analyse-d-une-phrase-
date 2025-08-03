@@ -1,18 +1,17 @@
 # projet-algorithmes-Analyse-d-une-phrase-
 
-* Objectif
+# Objectif
 Ce programme lit une phrase terminée par un point (`.`) et détermine :
 - Sa longueur (en nombre de caractères)
 - Le nombre de mots (séparés par des espaces simples)
 - Le nombre de voyelles
 
-* Technologies
+# Technologies
 - Algorithme rédigé en pseudo-code / Python / autre (précise selon ton cas)
 - Traitement caractère par caractère
 - Utilisation de 3 compteurs : `longueur`, `nbMots`, `nbVoyelles`
-- 
-
-  * Algorithme AnalysePhrase
+  
+# Algorithme AnalysePhrase
 
 Variables :
     c : caractère
@@ -54,4 +53,3 @@ Début
     Afficher "Nombre de mots : ", nbMots
     Afficher "Nombre de voyelles : ", nbVoyelles
 Fin
-
